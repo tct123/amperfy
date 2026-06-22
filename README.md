@@ -6,7 +6,7 @@ Amperfy is an iOS/iPadOS/macOS app written in Swift to interact with an [Ampache
 
 ### iOS
 
-<a href="https://apps.apple.com/app/amperfy-music/id1530145038#?platform=iphone">
+<a href="https://apps.apple.com/us/app/amperfy-music/id1530145038">
   <img src=".github/AppStore/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" height="45" />
 </a>
 
